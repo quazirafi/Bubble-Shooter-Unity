@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b656b3a4a86b3b141a801ad151c83ec1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainControllersBullet: {fileID: 100000, guid: 8a7c44460d4af2d4c81ba552b9fd3683,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
